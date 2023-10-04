@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Edubu/OneDrive/Área de Trabalho/Programas Faculdade/Trabalho Vaadin (POO)/Trabalho Vaadin (POO)/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Edubu/OneDrive/Área de Trabalho/Programas Faculdade/Trabalho Vaadin (POO)/Trabalho Vaadin (POO)/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Edubu/OneDrive/Área de Trabalho/Programas Faculdade/Trabalho Vaadin (POO)/Trabalho Vaadin (POO)/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Edubu\\OneDrive\\Área de Trabalho\\Programas Faculdade\\Trabalho Vaadin (POO)\\Trabalho Vaadin (POO)\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Edubu\\OneDrive\\Área de Trabalho\\Programas Faculdade\\Trabalho Vaadin (POO)\\Trabalho Vaadin (POO)\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Edubu/OneDrive/Área de Trabalho/Programas Faculdade/Trabalho Vaadin (POO)/Trabalho Vaadin (POO)/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Edubu/OneDrive/Área de Trabalho/Programas Faculdade/Trabalho Vaadin (POO)/Trabalho Vaadin (POO)/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Edubu/OneDrive/Área de Trabalho/Programas Faculdade/Trabalho Vaadin (POO)/Trabalho Vaadin (POO)/./frontend/generated/jar-resources",
+  "themeName": "myapp",
+  "clientServiceWorkerSource": "C:\\Users\\Edubu\\OneDrive\\Área de Trabalho\\Programas Faculdade\\Trabalho Vaadin (POO)\\Trabalho Vaadin (POO)\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
